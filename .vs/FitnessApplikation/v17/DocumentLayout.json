@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|c:\\users\\samue\\source\\repos\\fitnessapplikation\\fitnessapplikation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|solutionrelative:fitnessapplikation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|c:\\users\\samue\\source\\repos\\fitnessapplikation\\fitnessapplikation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|solutionrelative:fitnessapplikation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|c:\\users\\samue\\source\\repos\\fitnessapplikation\\fitnessapplikation\\controllers\\trainingsplancontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|solutionrelative:fitnessapplikation\\controllers\\trainingsplancontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|c:\\users\\samue\\source\\repos\\fitnessapplikation\\fitnessapplikation\\controllers\\uebungencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|solutionrelative:fitnessapplikation\\controllers\\uebungencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|c:\\users\\samue\\source\\repos\\fitnessapplikation\\fitnessapplikation\\model\\fitnessdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|solutionrelative:fitnessapplikation\\model\\fitnessdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|c:\\users\\samue\\source\\repos\\fitnessapplikation\\fitnessapplikation\\fitnessapplikation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{139CD07B-E45C-4F77-A311-BE2AD47DF677}|FitnessApplikation\\FitnessApplikation.csproj|solutionrelative:fitnessapplikation\\fitnessapplikation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB323385-4EB6-49AD-B090-158014C843F6}|Projektmappenelemente{BB323385-4EB6-49AD-B090-158014C843F6}|C:\\Users\\samue\\source\\repos\\FitnessApplikation\\RuleSet1Fitness.ruleset||{86B136E6-CC1D-4C8A-B135-8100555B9D17}",
+      "RelativeMoniker": "D:0:0:{BB323385-4EB6-49AD-B090-158014C843F6}|Projektmappenelemente{BB323385-4EB6-49AD-B090-158014C843F6}|solutionrelative:RuleSet1Fitness.ruleset||{86B136E6-CC1D-4C8A-B135-8100555B9D17}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\appsettings.json",
+              "RelativeDocumentMoniker": "FitnessApplikation\\appsettings.json",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\appsettings.json",
+              "RelativeToolTip": "FitnessApplikation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T21:11:13.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UebungenController.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\Controllers\\UebungenController.cs",
+              "RelativeDocumentMoniker": "FitnessApplikation\\Controllers\\UebungenController.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\Controllers\\UebungenController.cs",
+              "RelativeToolTip": "FitnessApplikation\\Controllers\\UebungenController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:10:12.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RuleSet1Fitness.ruleset",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\RuleSet1Fitness.ruleset",
+              "RelativeDocumentMoniker": "RuleSet1Fitness.ruleset",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\RuleSet1Fitness.ruleset",
+              "RelativeToolTip": "RuleSet1Fitness.ruleset",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002641|",
+              "WhenOpened": "2024-02-19T19:15:01.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainingsplanControl.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\Controllers\\TrainingsplanControl.cs",
+              "RelativeDocumentMoniker": "FitnessApplikation\\Controllers\\TrainingsplanControl.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\Controllers\\TrainingsplanControl.cs",
+              "RelativeToolTip": "FitnessApplikation\\Controllers\\TrainingsplanControl.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T18:43:15.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessApplikation\\Program.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\Program.cs",
+              "RelativeToolTip": "FitnessApplikation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:12:06.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FitnessDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\Model\\FitnessDbContext.cs",
+              "RelativeDocumentMoniker": "FitnessApplikation\\Model\\FitnessDbContext.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\Model\\FitnessDbContext.cs",
+              "RelativeToolTip": "FitnessApplikation\\Model\\FitnessDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:06:57.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FitnessApplikation.csproj",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\FitnessApplikation.csproj",
+              "RelativeDocumentMoniker": "FitnessApplikation\\FitnessApplikation.csproj",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\FitnessApplikation\\FitnessApplikation\\FitnessApplikation.csproj",
+              "RelativeToolTip": "FitnessApplikation\\FitnessApplikation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-19T15:28:05.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
